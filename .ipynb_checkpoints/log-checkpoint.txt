@@ -1,0 +1,13 @@
+04/04/2021 10:30:28 AM - INFO - ***Evolving 10 generations with population 20***
+04/04/2021 10:30:28 AM - INFO - ***Doing generation 1 of 10***
+04/04/2021 10:31:00 AM - WARNING - 5 out of the last 5 calls to <function Model.make_test_function.<locals>.test_function at 0x7fae335aa268> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+04/04/2021 10:31:01 AM - WARNING - 6 out of the last 6 calls to <function Model.make_test_function.<locals>.test_function at 0x7fae33435488> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+04/04/2021 10:31:33 AM - INFO - Generation average: 12.63%
+04/04/2021 10:31:33 AM - INFO - --------------------------------------------------------------------------------
+04/04/2021 10:31:33 AM - INFO - ***Doing generation 2 of 10***
+04/04/2021 10:31:59 AM - INFO - Generation average: 20.42%
+04/04/2021 10:31:59 AM - INFO - --------------------------------------------------------------------------------
+04/04/2021 10:31:59 AM - INFO - ***Doing generation 3 of 10***
+04/04/2021 10:32:24 AM - INFO - Generation average: 20.79%
+04/04/2021 10:32:24 AM - INFO - --------------------------------------------------------------------------------
+04/04/2021 10:32:24 AM - INFO - ***Doing generation 4 of 10***
